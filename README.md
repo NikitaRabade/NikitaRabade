@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring to Shape Tomorrow: A Journey into Code and Continuous Innovation 🌐✨"</h3>
 
 - 🔭 I’m currently working on : <br>
- // **Hospital Management System project**
+
 
 - 🌱 I’m currently learning :<br> **React Js**
 
