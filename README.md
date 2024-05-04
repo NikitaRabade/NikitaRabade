@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on : <br> **Full Stack Web Development Projects**
 
-- 💬 Ask me about: <br> **C,C++,Core Java, HTML, CSS, JavaScript, Node js, SQL, Python, DBMS**
+- 💬 Ask me about: <br> **C,C++,Core Java, HTML, CSS,Bootstrap, Tailwind CSS JavaScript, Node js, Express js, SQL, Python, DBMS, NoSQL, Mongodb**
 
 - ⚡ Fun fact: <br> **Beyond coding, I find joy in decoding diverse cultures through my travels, making every journey a new adventure in both technology and life.🌐✨**
 
