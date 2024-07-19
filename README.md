@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nikita Rabade</h1>
 <h3 align="center">🚀 Aspiring to Shape Tomorrow: A Journey into Code and Continuous Innovation 🌐✨"</h3>
 
-- 🔭 I’m currently working on : <br>
+- 🔭  I’m currently engaged with several projects to enhance my hands-on experience.
 
 
-- 🌱 I’m currently learning :<br> **Java Full Stack course**
+<!-- - 🌱 I’m currently learning :<br> **Java Full Stack course** -->
 
 - 👯 I’m looking to collaborate on : <br> **Full Stack Web Development Projects**
 
