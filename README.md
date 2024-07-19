@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on : <br>
 
 
-- 🌱 I’m currently learning :<br> **React Js**
+- 🌱 I’m currently learning :<br> **Java Full Stack course**
 
 - 👯 I’m looking to collaborate on : <br> **Full Stack Web Development Projects**
 
