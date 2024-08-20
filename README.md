@@ -1,16 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nikita Rabade</h1>
 <h3 align="center">🚀 Aspiring to Shape Tomorrow: A Journey into Code and Continuous Innovation 🌐✨"</h3>
 
-- 🔭  I’m currently engaged with several projects to enhance my hands-on experience.
+- 🔭 I’m currently working on **JWT**, **MongoDB aggregation**, and applying these technologies in a **rental website project**.
 
-
+- 🔭 I’m currently enrolled in a **Java Full Stack course** to deepen my knowledge and skills.
+  
+- 🌟 I got my hands dirty with **Java**, **Node.js**, **Express.js**, and **problem solving** during 2023-2024, and I'm eager to apply these skills in real-world projects.
+- 
 <!-- - 🌱 I’m currently learning :<br> **Java Full Stack course** -->
 
-- 👯 I’m looking to collaborate on : <br> **Full Stack Web Development Projects**
+- 👯 I’m looking to collaborate on: <br> **Full Stack Web Development Projects**
 
-- 💬 Ask me about: <br> **C,C++,Core Java, HTML, CSS,Bootstrap, Tailwind CSS JavaScript, Node js, Express js, SQL, Python, DBMS, NoSQL, Mongodb**
+- 💬 Ask me about: <br> **Core Java, HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, Node js, Express js, SQL, Mongodb**
 
-- ⚡ Fun fact: <br> **Beyond coding, I find joy in decoding diverse cultures through my travels, making every journey a new adventure in both technology and life.🌐✨**
+<!-- - ⚡ Fun fact: <br> **Beyond coding, I find joy in decoding diverse cultures through my travels, making every journey a new adventure in both technology and life.🌐✨** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
