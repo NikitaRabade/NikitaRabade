@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Rabade</h1>
-<h3 align="center">🚀 Aspiring to Shape Tomorrow: A Journey into Code and Continuous Innovation 🌐✨"</h3>
+<h3 align="center"> Passionate Developer | Solving Problems with Java ✨"</h3>
 
 - 🔭 Currently, I am deep diving into **Java** and its frameworks to enhance my expertise.
 
